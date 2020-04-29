@@ -9,8 +9,6 @@ Implementing Continuous Integration/Continuous Delivery on Spring Boot Java App
 
 ## I've added Javadoc plugin in pom.xml
 
-https://fanjups.github.io/cicd-applied-to-spring-boot-java-app/project-reports.html
-
 ## I've added packaging jar 
 
 ```
@@ -19,4 +17,4 @@ https://fanjups.github.io/cicd-applied-to-spring-boot-java-app/project-reports.h
 
 ## I've added mvn clean in .travis.yml
 
-## I've created .dockerignore
+
