@@ -25,9 +25,9 @@
 		
 		<!-- property useful for  spotify's dockerfile-maven-plugin -->
 		
-		<!-- Instead of "fanjups", please add your Docker Hub username -->
+		<!-- Instead of "DimuthuKasunWP", please add your Docker Hub username -->
 		
-		<docker.image.prefix>fanjups</docker.image.prefix>
+		<docker.image.prefix>DimuthuKasunWP</docker.image.prefix>
 		
 		<!--Not adding artifacts to remote repository-->
 		
@@ -242,28 +242,28 @@
   
   <developers>
   	<developer>
-  		<email>jupsfan@gmail.com</email>
-		<name>Fanon Jupkwo</name>
-		<url>https://github.com/FanJups</url>
-		<id>FanJups</id>
+  		<email>kasunwpdimuthu@gmail.com</email>
+		<name>Dimuthu Kasun</name>
+		<url>https://github.com/DimuthuKasunWP</url>
+		<id>DimuthuKasunWP</id>
   	</developer>
       
   </developers>
   
   <organization>
-		<name>FAN JUPS TECH</name>
-		<url>https://github.com/FanJups/</url>
+		<name>Dimuthu TECH</name>
+		<url>https://github.com/DimuthuKasunWP/</url>
 	</organization>
   
   <issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/FanJups/cicd-applied-to-spring-boot-java-app/issues</url>
+		<url>https://github.com/DimuthuKasunWP/cicd-applied-to-spring-boot-java-app/issues</url>
   </issueManagement>
   
   <scm>
-		<url>https://github.com/FanJups/cicd-applied-to-spring-boot-java-app</url>
-		<connection>scm:git:git://github.com/FanJups/cicd-applied-to-spring-boot-java-app.git</connection>
-		<developerConnection>scm:git:git://github.com/FanJups/cicd-applied-to-spring-boot-java-app.git</developerConnection>
+		<url>https://github.com/DimuthuKasunWP/cicd-applied-to-spring-boot-java-app</url>
+		<connection>scm:git:git://github.com/DimuthuKasunWP/cicd-applied-to-spring-boot-java-app.git</connection>
+		<developerConnection>scm:git:git://github.com/DimuthuKasunWP/cicd-applied-to-spring-boot-java-app.git</developerConnection>
   </scm>
 
 </project>
